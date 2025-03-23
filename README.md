@@ -17,15 +17,19 @@ This project predicts the likelihood of a stroke based on **demographic, health,
    ```bash
    git clone https://github.com/AmirhosseinGhalaei/Stroke-Prediction-Using-Machine-Learning.git
 
-2. **Navigate to the project folder**:
+2. **Create the project directory**:  
+   ```bash
+   mkdir Stroke-Prediction-Using-Machine-Learning
+
+3. **Navigate to the directory**:
    ```bash
    cd Stroke-Prediction-Using-Machine-Learning
 
-3. **Install required libraries**:
+4. **Install required libraries**:
    ```bash
    pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
 
-4. **Run the Python script**:
+5. **Run the Python script**:
    ```bash
     python StrokePrediction.py
 

@@ -17,30 +17,31 @@ This project predicts the likelihood of a stroke based on **demographic, health,
    ```bash
    git clone https://github.com/AmirhosseinGhalaei/Stroke-Prediction.git
 
-    Navigate to the project folder:
+2. **Navigate to the project folder**:
+   ```bash
+   cd Stroke-Prediction
 
-cd Stroke-Prediction
+3. **Install required dependencies**:
+   ```bash
+   pip install -r requirements.txt
 
-Install required dependencies:
-
-pip install -r requirements.txt
-
-Run the Python script:
-
+4. **Run the Python script**:
+   ```bash
     python StrokePrediction.py
 
-📊 Features & Steps
+## 📊 Features & Steps
 
-✔ Data Preprocessing: Handling missing values, encoding categorical data
-✔ Exploratory Data Analysis (EDA): Understanding distributions, correlations
-✔ Class Imbalance Handling: Using SMOTE or re-sampling
-✔ Feature Engineering & Selection: Selecting the most relevant features
-✔ Model Training: Logistic Regression, Decision Trees, Random Forest, etc.
-✔ Hyperparameter Tuning: Optimizing models for better accuracy
-📜 License
+- ✔ Data Preprocessing: Handling missing values, encoding categorical data
+- ✔ Exploratory Data Analysis (EDA): Understanding distributions, correlations
+- ✔ Class Imbalance Handling: Using SMOTE or re-sampling
+- ✔ Feature Engineering & Selection: Selecting the most relevant features
+- ✔ Model Training: Logistic Regression, Decision Trees, Random Forest, etc.
+- ✔ Hyperparameter Tuning: Optimizing models for better accuracy
 
-This project is licensed under the MIT License.
-✉️ Contact
+## 📜 License
+- This project is licensed under the MIT License.
 
-🔗 GitHub Profile
-📧 Email: your-email@example.com
+## ✉️ Contact
+
+- 🔗 GitHub Profile
+- 📧 Email: your-email@example.com

@@ -21,9 +21,9 @@ This project predicts the likelihood of a stroke based on **demographic, health,
    ```bash
    cd Stroke-Prediction
 
-3. **Install required dependencies**:
+3. **Install required libraries**:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
 
 4. **Run the Python script**:
    ```bash
@@ -31,12 +31,12 @@ This project predicts the likelihood of a stroke based on **demographic, health,
 
 ## 📊 Features & Steps
 
-- ✔ Data Preprocessing: Handling missing values, encoding categorical data
-- ✔ Exploratory Data Analysis (EDA): Understanding distributions, correlations
-- ✔ Class Imbalance Handling: Using SMOTE or re-sampling
-- ✔ Feature Engineering & Selection: Selecting the most relevant features
-- ✔ Model Training: Logistic Regression, Decision Trees, Random Forest, etc.
-- ✔ Hyperparameter Tuning: Optimizing models for better accuracy
+✔ Data Preprocessing: Handling missing values, encoding categorical data
+✔ Exploratory Data Analysis (EDA): Understanding distributions, correlations
+✔ Class Imbalance Handling: Using SMOTE or re-sampling
+✔ Feature Engineering & Selection: Selecting the most relevant features
+✔ Model Training: Logistic Regression, Decision Trees, Random Forest, etc.
+✔ Hyperparameter Tuning: Optimizing models for better accuracy
 
 ## 📜 License
 - This project is licensed under the MIT License.

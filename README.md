@@ -31,10 +31,10 @@ This project predicts the likelihood of a stroke based on **demographic, health,
 
 ## 📊 Features & Steps
 
- ✔ Data Preprocessing: Handling missing values, encoding categorical data
- ✔ Exploratory Data Analysis (EDA): Understanding distributions, correlations
- ✔ Class Imbalance Handling: Using SMOTE or re-sampling
- ✔ Feature Engineering & Selection: Selecting the most relevant features
+- ✔ Data Preprocessing: Handling missing values, encoding categorical data
+- ✔ Exploratory Data Analysis (EDA): Understanding distributions, correlations
+- ✔ Class Imbalance Handling: Using SMOTE or re-sampling
+- ✔ Feature Engineering & Selection: Selecting the most relevant features
 - ✔ Model Training: Logistic Regression, Decision Trees, Random Forest, etc.
 - ✔ Hyperparameter Tuning: Optimizing models for better accuracy
 
@@ -43,5 +43,5 @@ This project predicts the likelihood of a stroke based on **demographic, health,
 
 ## ✉️ Contact
 
-- 🔗 GitHub Profile
-- 📧 Email: your-email@example.com
+- 🔗 GitHub Profile: https://github.com/AmirhosseinGhalaei
+- 📧 Email: amirhosseinghalaei@outlook.com

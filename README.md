@@ -1,4 +1,4 @@
-# 🩺 Stroke Prediction using Machine Learning  
+# Stroke Prediction using Machine Learning  
 
 ## 📌 Project Description  
 This project predicts the likelihood of a stroke based on **demographic, health, and lifestyle factors**. Using machine learning models, we processed the dataset, handled class imbalances, performed feature selection, and optimized hyperparameters to improve predictive performance.  
@@ -47,5 +47,5 @@ This project predicts the likelihood of a stroke based on **demographic, health,
 
 ## ✉️ Contact
 
-- 🔗 GitHub Profile: https://github.com/AmirhosseinGhalaei
-- 📧 Email: amirhosseinghalaei@outlook.com
+- GitHub Profile: https://github.com/AmirhosseinGhalaei
+- Email: amirhosseinghalaei@outlook.com

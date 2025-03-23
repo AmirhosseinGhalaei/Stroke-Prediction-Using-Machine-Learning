@@ -19,7 +19,7 @@ This project predicts the likelihood of a stroke based on **demographic, health,
 
 2. **Navigate to the project folder**:
    ```bash
-   cd Stroke-Prediction
+   cd Stroke-Prediction-Using-Machine-Learning
 
 3. **Install required libraries**:
    ```bash

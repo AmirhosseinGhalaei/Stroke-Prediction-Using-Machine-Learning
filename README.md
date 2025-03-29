@@ -47,5 +47,5 @@ This project predicts the likelihood of a stroke based on **demographic, health,
 
 ## ✉️ Contact
 
-- GitHub Profile: https://github.com/AmirhosseinGhalaei
-- Email: amirhosseinghalaei@outlook.com
+- **GitHub Profile:** https://github.com/AmirhosseinGhalaei
+- **Email:** amirhosseinghalaei@outlook.com
